@@ -1,6 +1,7 @@
 # FunkyJunk
 A playground for testing Github repository features
-edit: test programming languages
-[] c
-[] python
-[] Javascript 
+
+<h2>test programming languages</h2>
+[ ] c<br>
+[ ] python<br>
+[ ] Javascript<br>
