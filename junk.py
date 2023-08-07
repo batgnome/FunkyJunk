@@ -1,5 +1,5 @@
 from time import sleep
 
-While True:
+while True:
   print('funky')
   sleep(1)
